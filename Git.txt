@@ -1,0 +1,13 @@
+1) MAC 安装 GIT
+
+http://blog.tianya.cn/blogger/post_read.asp?BlogID=4261426&PostID=47249547
+
+2）设置GIT
+
+http://www.cnblogs.com/sorex/archive/2012/05/25/2517763.html
+
+
+cocos2d-x 封装
+http://www.programmer.com.cn/10845/
+cocos2d-builder
+http://code.zynga.com/2012/10/creating-a-game-with-cocosbuilder/
