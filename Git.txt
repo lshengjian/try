@@ -1,13 +1,20 @@
-1) MAC 安装 GIT
+1)  安装GIT
+
 
 http://blog.tianya.cn/blogger/post_read.asp?BlogID=4261426&PostID=47249547
 
+
 2）设置GIT
+
 
 http://www.cnblogs.com/sorex/archive/2012/05/25/2517763.html
 
+http://www.cnblogs.com/dabaopku/archive/2012/01/09/2316772.html
 
-cocos2d-x 封装
-http://www.programmer.com.cn/10845/
-cocos2d-builder
-http://code.zynga.com/2012/10/creating-a-game-with-cocosbuilder/
+
+http://xzpeter.blog.51cto.com/783279/284802
+
+3) 使用
+命令行：http://blog.chinaunix.net/uid-25806493-id-3328322.html
+导入项目 
+http://www.raywenderlich.com/22590/beginning-automated-testing-with-xcode-part-12
